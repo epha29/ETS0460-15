@@ -12,3 +12,12 @@ Their are also related methods like
 strip()  is used to remove both leading and trailing charcter or space 
 lstrip()  is used to remove only leading charcter or space 
 rstrip()  is used to remove only and trailing charcter or space 
+
+# capitalize() 
+The capitalize() method returns a string where the first character is upper case, and the rest is lower case.
+ It does not modify numbers, symbols, or already uppercase letters.
+
+what is the syntax
+ 
+      string.capitalize()
+
