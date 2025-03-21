@@ -21,3 +21,14 @@ what is the syntax
  
       string.capitalize()
 
+ # replace()
+ 
+The replace() method is used to replace occurrences of a substring within a string with another substring. It returns a new string with the replacements.
+
+what is the syntax?
+
+string.replace(old, new, count)
+
+old: The substring you want to replace.
+new: The substring you want to replace it with.
+count (optional): The maximum number of replacements to perform. If not specified, all occurrences of old are replaced.
