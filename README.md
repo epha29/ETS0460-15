@@ -32,3 +32,12 @@ string.replace(old, new, count)
 old: The substring you want to replace.
 new: The substring you want to replace it with.
 count (optional): The maximum number of replacements to perform. If not specified, all occurrences of old are replaced.
+
+# append()
+The append() method in Python is used to add a single element to the end of a list. It modifies the original list in place, meaning it does not create a new list but instead updates the existing one.
+  
+  what is the syntax?
+ list.append(element)
+ 
+ list: The list to which you want to add an element.
+element: The item to add to the list. This can be of any data type like ( ephrem, getahun , bontu)
