@@ -16,3 +16,4 @@ text2="HI MY NAME IS EPHREM "
 capitalized_text2=text2.capitalize()  #we expect that the first character will be uppercase and the rest lowercase
 print(f"the original text is {text2} ")
 print(f"the capitalizied text is {capitalized_text2}")
+

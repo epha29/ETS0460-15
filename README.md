@@ -50,7 +50,7 @@ element: The item to add to the list. This can be of any data type like ( ephrem
 
  what is the syntax?
 
- string.startswith(substring,satrt,end)
+       string.startswith(substring,satrt,end)
 
 substring- (Required) The string to check at the beginning.
 start-(Optional) The index where the check should begin.
@@ -63,10 +63,11 @@ fase- if not starting with agiven substring
 
 # endswith()
 The endswith() method in Python is used to check whether a string ends with a specific substring. It returns True if the string ends with the given substring and False otherwise.
-
+    
 what is the syntax?
 
-string.endswith(substring, start, end)
+        string.endswith(substring, start, end)
+  
  substring - string to check at the end
  start-(optional) the index where checking should begin
  end-(optional) the where the cheking should stop
@@ -75,3 +76,6 @@ string.endswith(substring, start, end)
  
  true-if the string is end with a given substring
  false-if not ends with a given substring
+
+# join()
+  is a string method that concatenates (joins) elements of an iterable (such as a list, tuple, or set) into a single string. The joining process inserts the original string (on which `join()` is called) between each element of the iterable.
