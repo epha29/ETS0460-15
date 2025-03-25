@@ -79,3 +79,10 @@ what is the syntax?
 
 # join()
   is a string method that concatenates (joins) elements of an iterable (such as a list, tuple, or set) into a single string. The joining process inserts the original string (on which `join()` is called) between each element of the iterable.
+     what is the syntax?
+    
+    separator.join(iterable)
+
+separator: The string used to join the elements (e.g., " ", ",", "-").
+
+iterable: A sequence of strings (list, tuple, or any iterable containing strings).
