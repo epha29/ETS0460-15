@@ -86,3 +86,28 @@ what is the syntax?
 separator: The string used to join the elements (e.g., " ", ",", "-").
 
 iterable: A sequence of strings (list, tuple, or any iterable containing strings).
+
+# format()
+ 
+ is a powerful string formatting technique in Python that allows you to insert values into a string template using placeholders.
+         what is the syntax?
+ 
+ string with {} placeholders".format(values)
+
+# isalpha()
+    method in Python is a string method that checks whether a given string consists only of alphabetic characters (A-Z, a-z). It returns `True` if all characters are letters and `False` otherwise.
+
+                 what is the Syntax?
+                 
+              string.isalpha()
+Return Value:
+
+- Returns `True` if all characters in the string are alphabetic.
+- Returns `False` if the string contains any non-alphabetic characters, including digits, spaces, or special symbols.
+
+# encode()
+method in Python converts a string into a bytes object using a specified encoding (default is UTF-8)
+ 
+ what is the  syntax?
+  
+  string.encode()
