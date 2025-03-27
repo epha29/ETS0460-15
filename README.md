@@ -111,3 +111,16 @@ method in Python converts a string into a bytes object using a specified encodin
  what is the  syntax?
   
   string.encode()
+   
+   # count()
+
+   The `count()` method in Python returns the number of occurrences of a substring within a given string.
+
+                what is the Syntax?
+
+    string.count(substring, start, end)
+
+- `substring` (required): The string to search for.
+- `start` (optional): The starting index where the search begins.
+- `end` (optional): The ending index where the search stops.
+# isalnum()
