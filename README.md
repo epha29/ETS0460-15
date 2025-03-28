@@ -124,7 +124,7 @@ method in Python converts a string into a bytes object using a specified encodin
 - `start` (optional): The starting index where the search begins.
 - `end` (optional): The ending index where the search stops.
 # isalnum()
-The `isalnum()` method in Python checks whether all characters in a string are **alphanumeric** (i.e., only letters and digits). It returns `True` if the string contains only letters (a-z, A-Z) and/or digits (0-9) and has at least one character; otherwise, it returns `False`.
+The `isalnum()` method in Python checks whether all characters in a string are **alphanumeric** (i.e., only letters and digits). It returns `True` if the string contains only letters (a-z, A-Z) and/or digits (0-9) and has at least one character; otherwise, it returns `False`
 
              what is the Syntax?
    
@@ -132,7 +132,10 @@ The `isalnum()` method in Python checks whether all characters in a string are *
 
 - Returns `True` if all characters are letters and/or digits.
 - Returns `False` if the string contains **spaces, symbols, or special characters**.
+  
+  
   # isdidgit()
   method is a built-in string method in Python that checks if all characters in a string are digits (0-9).
-     what is the syntax?
-     string.isdigit()
+                            
+                             what is the syntax?
+       string.isdigit()
