@@ -139,3 +139,12 @@ The `isalnum()` method in Python checks whether all characters in a string are *
                             
                              what is the syntax?
        string.isdigit()
+
+       # len()
+  function is a built-in Python function that returns the number of items in an object.
+   
+                            what is the syntax
+  
+      len(object)
+   
+object-An object that supports length measurement (string, list, tuple, dict, set, etc.)
