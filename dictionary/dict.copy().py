@@ -1,0 +1,10 @@
+my_dict={"name":"beti","age":21,"city":"adama","score":[1,2,3,4,]}
+copied_dict=my_dict.copy()
+copied_dict["name"]="ephrem"
+shallow_copied_dict=my_dict.copy()
+deep_copied_dict=my_dict.copy()
+shallow_copied_dict["score"].append(10)
+print(my_dict)
+print(copied_dict)
+print(shallow_copied_dict)
+print(deep_copied_dict)

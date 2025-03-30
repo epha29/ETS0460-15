@@ -10,4 +10,4 @@ print(my_dic)
 for key in my_dic:
     print(key) # this part is used to loop through the dicitionary and print the keys of the dictionary 
     # what if we want to print the keys and the values of the dictionary 
-    print(key  , my_dic[key])
+    print("key  , my_dic[key]")
