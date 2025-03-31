@@ -31,4 +31,11 @@ The copy() method in Python creates a shallow copy of a dictionary. This means t
 
 original_dict → The dictionary to be copied.
 new_dict → A new dictionary with the same key-value pairs as original_dict.
+                  
+ # dict.clear().py
+
+The clear() method is used to remove all items from a dictionary, leaving it empty {}.
+
+                     what is the syntax?
+dictionary.clear()
 
