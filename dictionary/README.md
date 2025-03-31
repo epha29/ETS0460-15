@@ -39,3 +39,13 @@ The clear() method is used to remove all items from a dictionary, leaving it emp
                      what is the syntax?
 dictionary.clear()
 
+ # dict.get()
+
+ The get() method in Python is used to retrieve the value of a specified key from a dictionary. If the key does not exist, it returns a default value (or None if no default value is provided).
+  
+   what the syntax?
+
+   dictionary.get (key, default_value )
+
+ key: the key ehose value you want to retrieve
+default_value : optional thr value to return if the key is not found.is not provided it defaults to none
