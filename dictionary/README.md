@@ -19,3 +19,16 @@ my_dic is a Python dictionary that stores key-value pairs. It is used to represe
 to update the value we use 
  
  my_dic["key"]="new value"
+ 
+ # copy_dict().py
+ 
+ Description
+
+The copy() method in Python creates a shallow copy of a dictionary. This means that it copies the dictionary’s keys and values but not nested objects. If the dictionary contains mutable objects (e.g., lists, other dictionaries), only references to those objects are copied, not the actual objects themselves.
+ 
+  what is the synta?
+ new_dict = original_dict.copy()
+
+original_dict → The dictionary to be copied.
+new_dict → A new dictionary with the same key-value pairs as original_dict.
+
