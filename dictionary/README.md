@@ -49,3 +49,13 @@ dictionary.clear()
 
  key: the key ehose value you want to retrieve
 default_value : optional thr value to return if the key is not found.is not provided it defaults to none
+
+ # dict.formkeys().py
+
+ The fromkeys() method returns a dictionary with the specified keys and the specified value.
+ 
+        what is the syntax?
+        
+dictionary = dict.fromkeys(keys, value)
+
+
