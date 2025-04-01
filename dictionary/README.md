@@ -58,4 +58,12 @@ default_value : optional thr value to return if the key is not found.is not prov
         
 dictionary = dict.fromkeys(keys, value)
 
+# dict.items().py
+
+The .items() method in Python returns a view object that displays a list of dictionary’s key-value tuples. This is useful when you want to loop through all key-value pairs in a dictionary.
+ 
+                 what is the syntax?
+
+  dictionary.items()
+
 
