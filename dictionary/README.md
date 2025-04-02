@@ -66,4 +66,9 @@ The .items() method in Python returns a view object that displays a list of dict
 
   dictionary.items()
 
+# dict.pop().py
 
+The pop() method in Python is used to remove a specified key from a dictionary and return its corresponding value. If the key does not exist, you can provide a default value to return; otherwise, it raises a KeyError 
+
+                what is the syntax?
+        dictionary.pop()
