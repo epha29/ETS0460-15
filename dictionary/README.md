@@ -86,3 +86,9 @@ dictionary.popitem()
                   what the syntax?
 
     dictionary.setdefault(key, default_value)
+
+ # dict.keys().py
+
+   is a built-in Python method that returns a view object containing all the keys in a dictionary. The keys are returned as an iterable object that reflects any changes made to the dictionary.
+                     what is the syntax?
+   keys_view = dictionary.keys() 
