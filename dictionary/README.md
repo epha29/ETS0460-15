@@ -77,3 +77,12 @@ The pop() method in Python is used to remove a specified key from a dictionary a
 the popitem() method in Python is used to remove and return the last key-value pair from a dictionary. This method is useful when you want to remove items in last-in, first-out (LIFO) order.
                            what is the syntax?
 dictionary.popitem()
+
+
+# dict.setdefault().py
+
+     method in Python is used to retrieve the value of a specified key in a dictionary. If the key does not exist, it inserts the key with a specified default value and returns that default value
+
+                  what the syntax?
+
+    dictionary.setdefault(key, default_value)
