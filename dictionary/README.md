@@ -101,3 +101,11 @@ If a key already exists, its value is updated; if not, a new key-value pair is a
             what is the syntax?
 
 dictionary.update().py
+
+# dict.values().py
+
+The values() method returns a view object that displays a list of all the values stored in a dictionary
+          
+            what is the syntax?
+
+  dictionary.values()
