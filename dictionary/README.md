@@ -92,3 +92,12 @@ dictionary.popitem()
    is a built-in Python method that returns a view object containing all the keys in a dictionary. The keys are returned as an iterable object that reflects any changes made to the dictionary.
                      what is the syntax?
    keys_view = dictionary.keys() 
+   
+# dict.update().py
+
+is a built-in Python method that updates a dictionary with key-value pairs from another dictionary or iterable. 
+If a key already exists, its value is updated; if not, a new key-value pair is added.
+           
+            what is the syntax?
+
+dictionary.update().py
