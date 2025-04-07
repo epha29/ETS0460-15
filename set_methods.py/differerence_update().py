@@ -2,4 +2,4 @@
 all_animals={ "sheep","cow","Pig","lion","goat"}
 unclean={"Pig"}
 x=all_animals.difference_update(unclean);
-print(all_animals)# we expect the output to be set of
+print(all_animals)# we expect the output to be set of all_animals except the unclean animals
