@@ -16,3 +16,14 @@ The difference_update() method is different from the difference() method, becaus
              what is the syntax?
 
 set.difference_update(*others)
+ 
+ # dicard().py
+
+The 'discard()' method attempts to remove a specified element from aset.
+If the element is present in the set, it is removed. If the element is not
+present, the set remains unchanged, and no error is raised.
+ 
+
+                    what is the syntax?
+
+my_set.discard(element)
