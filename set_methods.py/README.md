@@ -35,3 +35,8 @@ method checks whether a set contains all the elements of another set (or iterabl
                    what is the syntax ?
 
 set.issuperset(other_set)
+
+# intersection().py
+the intersection_update() method removes the items that is not present in both sets (or in all sets if the comparison is done between more than two sets).
+The intersection_update() method is different from the intersection() method, because the intersection() method returns a new set, without the unwanted items, and the intersection_update() method removes the unwanted items from the original set.
+As a shortcut, you can use the &= operator instead, 

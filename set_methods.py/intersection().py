@@ -4,4 +4,4 @@ all_disciplines={ "James","Peter","Thomas","John","Andriw" "Bartholomew", "Matth
 present_after_recurrection={"James","Peter", "Thmoas","John"}
 
 x=all_disciplines.intersection(present_after_recurrection)
-print(x)# we expect to get the updated set of all disciplines 
+print(x)# we expect to get the updated set of all disciplines that were present after the recurection of Jesus christ my lord and saviour
