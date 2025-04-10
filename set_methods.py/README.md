@@ -27,3 +27,11 @@ present, the set remains unchanged, and no error is raised.
                     what is the syntax?
 
 my_set.discard(element)
+ 
+# issuperset().py
+
+method checks whether a set contains all the elements of another set (or iterable). It returns True if the set is a superset of the specified set, otherwise False
+
+                   what is the syntax ?
+
+set.issuperset(other_set)
