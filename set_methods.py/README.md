@@ -41,3 +41,19 @@ set.issuperset(other_set)
 the intersection_update() method removes the items that is not present in both sets (or in all sets if the comparison is done between more than two sets).
 The intersection_update() method is different from the intersection() method, because the intersection() method returns a new set, without the unwanted items, and the intersection_update() method removes the unwanted items from the original set.
 As a shortcut, you can use the &= operator instead, 
+# pop().py
+Removes and returns an arbitrary element from the set.
+Since sets are unordered, you cannot predict which element will be removed.
+                    
+                    what is the syntax?
+         set.pop()  
+
+# symmetric_difference().py
+
+The symmetric_difference() method returns a set that contains all items from both set, but not the items that are present in both sets.
+Meaning: The returned set contains a mix of items that are not present in both sets.
+As a shortcut, you can use the ^ operator instead,
+
+                     what is the syntax?
+set.symmetric_difference(set1)
+set^ set1
