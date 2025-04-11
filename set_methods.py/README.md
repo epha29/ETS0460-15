@@ -12,6 +12,7 @@ set1.difference(set2)
 Modifies the original set by removing all elements that are also present in one or more other sets/sets
 
 The difference_update() method is different from the difference() method, because the difference() method returns a new set, without the unwanted items, and the difference_update() method removes the unwanted items from the original set.
+As a shortcut, you can use the -= operator instead
              
              what is the syntax?
 
