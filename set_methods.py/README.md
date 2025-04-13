@@ -57,3 +57,22 @@ As a shortcut, you can use the ^ operator instead,
                      what is the syntax?
 set.symmetric_difference(set1)
 set^ set1
+
+# issubset().py
+The issubset() method returns True if all items in the set exists in the specified set, otherwise it returns False.
+As a shortcut, you can use the <= operator instead, 
+                    
+                    what is the Syntax?
+
+set.issubset(set1)
+
+# union().py 
+The union() method returns a set that contains all items from the original set, and all items from the specified set(s).
+You can specify as many sets you want, separated by commas.
+It does not have to be a set, it can be any iterable object.
+If an item is present in more than one set, the result will contain only one appearance of this item.
+As a shortcut, you can use the | operator instead, 
+
+                  what is the Syntax?
+
+set.union(set1, set2...)
