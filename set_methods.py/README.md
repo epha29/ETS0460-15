@@ -76,3 +76,15 @@ As a shortcut, you can use the | operator instead,
                   what is the Syntax?
 
 set.union(set1, set2...)
+
+# symsymmetric_difference_update()
+
+The  method updates the original set by removing items that are present in both sets, and inserting the other items.
+As a shortcut, you can use the ^=
+                
+                what is the Syntax?
+
+set.symmetric_difference_update(set1)
+
+using shortcut
+ set1^=set2
