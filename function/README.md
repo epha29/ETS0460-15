@@ -15,3 +15,12 @@ all(iterable)
                                  Parameter Values
 Parameter	Description
 iterable	An iterable object (list, tuple, dictionary)
+
+# bin().py 
+
+The bin() function returns the binary version of a specified integer.
+The result will always start with the prefix 0b.
+
+                   what is the syntax?
+bin(n)
+n is integer 
