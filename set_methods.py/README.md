@@ -88,3 +88,24 @@ set.symmetric_difference_update(set1)
 
 using shortcut
  set1^=set2
+
+ # remove()
+
+The method removes the specified element from the set.
+This method is different from the discard() method, because the remove() method will raise an error if the specified item does not exist, and the discard() method will not.
+               what is the Syntax?
+set.remove(item)
+
+
+# update().py   
+
+The  method updates the current set, by adding items from another set (or any other iterable).
+If an item is present in both sets, only one appearance of this item will be present in the updated set.
+
+As a shortcut, you can use the |= operator instead
+
+              what is the syntax?
+
+ set.update(set1, set2 ...)
+
+e
