@@ -108,4 +108,11 @@ As a shortcut, you can use the |= operator instead
 
  set.update(set1, set2 ...)
 
-e
+# add().py
+
+The add() method adds an element to the set.
+If the element already exists, the add() method does not add the element.
+
+            what is the Syntax?
+
+set.add(elmnt)

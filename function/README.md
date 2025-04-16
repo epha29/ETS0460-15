@@ -24,3 +24,10 @@ The result will always start with the prefix 0b.
                    what is the syntax?
 bin(n)
 n is integer 
+
+# range().py
+
+ The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number.
+
+                                   what is the Syntax?
+ range(start, stop, step)
