@@ -28,3 +28,11 @@ The extend() method adds the specified list elements (or any iterable) to the en
  what is the Syntax?
  
 list.extend(iterable)
+
+# index().py
+
+The .index() method returns the index (position) of the first occurrence of a specified value in a list.
+
+what is the syntax?
+
+list.index(value)
