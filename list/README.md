@@ -36,3 +36,38 @@ The .index() method returns the index (position) of the first occurrence of a sp
 what is the syntax?
 
 list.index(value)
+
+# insert().py 
+
+The insert() method inserts the specified value at the specified position.
+
+what is the Syntax?
+
+list.insert(pos, elmnt)
+
+pos	Required. A number specifying in which position to insert the value
+elmnt	Required. An element of any type (string, number, object etc.)
+
+# pop().py
+
+The pop() method removes the element at the specified position.
+
+    what is the Syntax?
+    
+list.pop(pos)
+
+# remove().py
+
+ method removes the first occurrence of the element with the specified value.
+
+    what is the Syntax?
+    
+list.remove(elmnt)
+
+# reverse().py
+
+ method reverses the sorting order of the elements.
+
+what is the Syntax?
+
+list.reverse()
